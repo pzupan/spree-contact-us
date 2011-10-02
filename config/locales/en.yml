@@ -1,0 +1,22 @@
+---
+en:
+  inquiries: Inquiries
+  inquiries_settings: Inquiries Settings
+  inquiries_settings_description: Settings for the "Contact Us" inquiry form
+  inquiries_preferences: Inquiries Preferences
+  inquiries_recipients: Recipients
+  inquiries_recipients_to: Mail to this address
+  inquiries_recipients_bcc: BCC this address
+  inquiries_form_field_settings: Contact Form Fields Setup
+  inquiries_ask_for_order_number: Include Field for Order Number?
+  inquiries_ask_for_phone: Include Field for Phone?
+  inquiries_contact_types: Contact Type selections
+  inquiries_contact_types_help: list of choices for dropdown, separated by commas (or leave blank)
+  contact_us: Contact 
+  question_type: Subject
+  order_number: Order number
+  name: Your Name
+  message: Message
+  send_inquiry: Send Message
+  inquiry_successful: Got it! Thank you - we'll be back in touch shortly.
+  Fill_out_the_fields_to_contact_us: We want to hear from you

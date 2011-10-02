@@ -1,0 +1,19 @@
+---
+ru-RU:
+  inquiries: Обращения
+  inquiries_settings: Настройка обратной связи
+  inquiries_settings_description: Конфигурация формы "Контакты"
+  inquiries_preferences: Настройка обратной связи
+  inquiries_recipients: Получатели
+  inquiries_recipients_to:  Список получателей
+  inquiries_recipients_bcc: Скрытые копии
+
+  contact_us: Контакты
+  inquiry: Категория вопроса
+  order_number: Номер заказа
+  name: Ваше имя
+  message: Сообщение
+  send_inquiry: Отправить
+
+  inquiry_successfull: Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время
+
